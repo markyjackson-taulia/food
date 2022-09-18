@@ -17,6 +17,6 @@ Ingredients
 - add picture
 - write a better readme
 
-# Inspitred By
+# Inspired By
 
 The inspiration for open sourcing this was a direct result of a twtter conversation with me and @TheKingAbRob
